@@ -16,7 +16,7 @@ Ce projet est un projet réalisé dans le cadre d'un MESPI (Mise en Situation po
 Dans un premier temps, nous utilisons la technologie speaker Diarization afin de faire la détection de deux locuteurs différents en utilisant :
 
 - Le fabuleux Resemblyzer
-- Google Collab, en effet cette technologie est plutôt gourmande en ressource
+- Google Colab, en effet cette technologie est plutôt gourmande en ressource
 - SpectralClusterer
 - ffmpeg
 
